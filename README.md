@@ -6,3 +6,5 @@ Here's the link to Jon's [Maintainable Javascript presentation](https://docs.goo
 
 Brian's preso on Front-end Design (wireframing, responsive web design, etc.):
 https://bit.ly/dbc-design
+
+Nil's rails devise gist: https://gist.github.com/nilthacker/1bb6301c363edc53e503
